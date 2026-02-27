@@ -1,0 +1,1001 @@
+Product_ID,Category,Subcategory,Unit_Price_INR
+1000,Electronics,Mobile Phones,16915
+1001,Electronics,Mobile Phones,38817
+1002,Electronics,Mobile Phones,45041
+1003,Electronics,Mobile Phones,32717
+1004,Electronics,Mobile Phones,26876
+1005,Electronics,Mobile Phones,37773
+1006,Electronics,Mobile Phones,10159
+1007,Electronics,Mobile Phones,49515
+1008,Electronics,Mobile Phones,21305
+1009,Electronics,Mobile Phones,39529
+1010,Electronics,Mobile Phones,28915
+1011,Electronics,Mobile Phones,23762
+1012,Electronics,Mobile Phones,9686
+1013,Electronics,Mobile Phones,23574
+1014,Electronics,Mobile Phones,45125
+1015,Electronics,Mobile Phones,7710
+1016,Electronics,Mobile Phones,45421
+1017,Electronics,Mobile Phones,38905
+1018,Electronics,Mobile Phones,44894
+1019,Electronics,Mobile Phones,35500
+1020,Electronics,Mobile Phones,23369
+1021,Electronics,Mobile Phones,47038
+1022,Electronics,Mobile Phones,13322
+1023,Electronics,Mobile Phones,44687
+1024,Electronics,Mobile Phones,41060
+1025,Electronics,Mobile Phones,26492
+1026,Electronics,Mobile Phones,36901
+1027,Electronics,Mobile Phones,4719
+1028,Electronics,Mobile Phones,18487
+1029,Electronics,Mobile Phones,8975
+1030,Electronics,Mobile Phones,11779
+1031,Electronics,Mobile Phones,20744
+1032,Electronics,Mobile Phones,4566
+1033,Electronics,Mobile Phones,37115
+1034,Electronics,Mobile Phones,47475
+1035,Electronics,Mobile Phones,18947
+1036,Electronics,Mobile Phones,19956
+1037,Electronics,Mobile Phones,24778
+1038,Electronics,Mobile Phones,15850
+1039,Electronics,Mobile Phones,34809
+1040,Electronics,Televisions,45320
+1041,Electronics,Televisions,15850
+1042,Electronics,Televisions,19474
+1043,Electronics,Televisions,39027
+1044,Electronics,Televisions,13635
+1045,Electronics,Televisions,23669
+1046,Electronics,Televisions,36237
+1047,Electronics,Televisions,4374
+1048,Electronics,Televisions,38918
+1049,Electronics,Televisions,41768
+1050,Electronics,Televisions,34507
+1051,Electronics,Televisions,48395
+1052,Electronics,Televisions,39764
+1053,Electronics,Televisions,1814
+1054,Electronics,Televisions,1586
+1055,Electronics,Televisions,48490
+1056,Electronics,Televisions,18244
+1057,Electronics,Televisions,43305
+1058,Electronics,Televisions,28635
+1059,Electronics,Televisions,28820
+1060,Electronics,Televisions,20955
+1061,Electronics,Televisions,18640
+1062,Electronics,Televisions,36031
+1063,Electronics,Televisions,22508
+1064,Electronics,Televisions,47734
+1065,Electronics,Televisions,27731
+1066,Electronics,Televisions,2378
+1067,Electronics,Televisions,7325
+1068,Electronics,Televisions,5986
+1069,Electronics,Televisions,14466
+1070,Electronics,Televisions,34587
+1071,Electronics,Televisions,22516
+1072,Electronics,Televisions,47140
+1073,Electronics,Televisions,21448
+1074,Electronics,Televisions,25817
+1075,Electronics,Televisions,49962
+1076,Electronics,Televisions,49664
+1077,Electronics,Televisions,5098
+1078,Electronics,Televisions,35876
+1079,Electronics,Televisions,49659
+1080,Electronics,Laptops,13975
+1081,Electronics,Laptops,4617
+1082,Electronics,Laptops,15855
+1083,Electronics,Laptops,39293
+1084,Electronics,Laptops,8403
+1085,Electronics,Laptops,12202
+1086,Electronics,Laptops,36079
+1087,Electronics,Laptops,46213
+1088,Electronics,Laptops,35817
+1089,Electronics,Laptops,47903
+1090,Electronics,Laptops,47490
+1091,Electronics,Laptops,20537
+1092,Electronics,Laptops,47800
+1093,Electronics,Laptops,16585
+1094,Electronics,Laptops,37898
+1095,Electronics,Laptops,27357
+1096,Electronics,Laptops,32486
+1097,Electronics,Laptops,23379
+1098,Electronics,Laptops,36609
+1099,Electronics,Laptops,9440
+1100,Electronics,Laptops,739
+1101,Electronics,Laptops,34146
+1102,Electronics,Laptops,32715
+1103,Electronics,Laptops,47449
+1104,Electronics,Laptops,16595
+1105,Electronics,Laptops,34535
+1106,Electronics,Laptops,6893
+1107,Electronics,Laptops,3873
+1108,Electronics,Laptops,28093
+1109,Electronics,Laptops,24236
+1110,Electronics,Laptops,40173
+1111,Electronics,Laptops,5511
+1112,Electronics,Laptops,30683
+1113,Electronics,Laptops,35234
+1114,Electronics,Laptops,15305
+1115,Electronics,Laptops,7215
+1116,Electronics,Laptops,7788
+1117,Electronics,Laptops,40642
+1118,Electronics,Laptops,24035
+1119,Electronics,Laptops,10267
+1120,Electronics,Headphones,32482
+1121,Electronics,Headphones,36164
+1122,Electronics,Headphones,38948
+1123,Electronics,Headphones,1072
+1124,Electronics,Headphones,4547
+1125,Electronics,Headphones,9279
+1126,Electronics,Headphones,29520
+1127,Electronics,Headphones,31246
+1128,Electronics,Headphones,28413
+1129,Electronics,Headphones,35845
+1130,Electronics,Headphones,25912
+1131,Electronics,Headphones,43800
+1132,Electronics,Headphones,12777
+1133,Electronics,Headphones,6079
+1134,Electronics,Headphones,15538
+1135,Electronics,Headphones,18375
+1136,Electronics,Headphones,9269
+1137,Electronics,Headphones,25216
+1138,Electronics,Headphones,32156
+1139,Electronics,Headphones,29536
+1140,Electronics,Headphones,18196
+1141,Electronics,Headphones,16176
+1142,Electronics,Headphones,4911
+1143,Electronics,Headphones,20598
+1144,Electronics,Headphones,27045
+1145,Electronics,Headphones,10942
+1146,Electronics,Headphones,28340
+1147,Electronics,Headphones,27479
+1148,Electronics,Headphones,46234
+1149,Electronics,Headphones,48477
+1150,Electronics,Headphones,12925
+1151,Electronics,Headphones,42146
+1152,Electronics,Headphones,25319
+1153,Electronics,Headphones,13885
+1154,Electronics,Headphones,48402
+1155,Electronics,Headphones,17655
+1156,Electronics,Headphones,1105
+1157,Electronics,Headphones,43351
+1158,Electronics,Headphones,34991
+1159,Electronics,Headphones,31216
+1160,Electronics,Refrigerators,7558
+1161,Electronics,Refrigerators,29202
+1162,Electronics,Refrigerators,28996
+1163,Electronics,Refrigerators,2749
+1164,Electronics,Refrigerators,35248
+1165,Electronics,Refrigerators,12521
+1166,Electronics,Refrigerators,5115
+1167,Electronics,Refrigerators,6125
+1168,Electronics,Refrigerators,34337
+1169,Electronics,Refrigerators,42589
+1170,Electronics,Refrigerators,34869
+1171,Electronics,Refrigerators,22950
+1172,Electronics,Refrigerators,24196
+1173,Electronics,Refrigerators,32585
+1174,Electronics,Refrigerators,7467
+1175,Electronics,Refrigerators,18560
+1176,Electronics,Refrigerators,43603
+1177,Electronics,Refrigerators,41282
+1178,Electronics,Refrigerators,21358
+1179,Electronics,Refrigerators,38829
+1180,Electronics,Refrigerators,20722
+1181,Electronics,Refrigerators,18789
+1182,Electronics,Refrigerators,979
+1183,Electronics,Refrigerators,47561
+1184,Electronics,Refrigerators,22270
+1185,Electronics,Refrigerators,21727
+1186,Electronics,Refrigerators,9857
+1187,Electronics,Refrigerators,1166
+1188,Electronics,Refrigerators,1419
+1189,Electronics,Refrigerators,43361
+1190,Electronics,Refrigerators,40335
+1191,Electronics,Refrigerators,39493
+1192,Electronics,Refrigerators,41115
+1193,Electronics,Refrigerators,13641
+1194,Electronics,Refrigerators,8150
+1195,Electronics,Refrigerators,16449
+1196,Electronics,Refrigerators,37451
+1197,Electronics,Refrigerators,29164
+1198,Electronics,Refrigerators,44598
+1199,Electronics,Refrigerators,26798
+1200,Clothing,Men's Wear,7898
+1201,Clothing,Men's Wear,18646
+1202,Clothing,Men's Wear,24530
+1203,Clothing,Men's Wear,48654
+1204,Clothing,Men's Wear,28131
+1205,Clothing,Men's Wear,40606
+1206,Clothing,Men's Wear,23626
+1207,Clothing,Men's Wear,29643
+1208,Clothing,Men's Wear,10999
+1209,Clothing,Men's Wear,6529
+1210,Clothing,Men's Wear,14018
+1211,Clothing,Men's Wear,17560
+1212,Clothing,Men's Wear,18238
+1213,Clothing,Men's Wear,49284
+1214,Clothing,Men's Wear,48861
+1215,Clothing,Men's Wear,4791
+1216,Clothing,Men's Wear,32225
+1217,Clothing,Men's Wear,8286
+1218,Clothing,Men's Wear,36896
+1219,Clothing,Men's Wear,3847
+1220,Clothing,Men's Wear,8580
+1221,Clothing,Men's Wear,9942
+1222,Clothing,Men's Wear,27819
+1223,Clothing,Men's Wear,12111
+1224,Clothing,Men's Wear,47220
+1225,Clothing,Men's Wear,26242
+1226,Clothing,Men's Wear,14368
+1227,Clothing,Men's Wear,46492
+1228,Clothing,Men's Wear,15383
+1229,Clothing,Men's Wear,42251
+1230,Clothing,Men's Wear,32906
+1231,Clothing,Men's Wear,28799
+1232,Clothing,Men's Wear,5990
+1233,Clothing,Men's Wear,15452
+1234,Clothing,Men's Wear,42706
+1235,Clothing,Men's Wear,18099
+1236,Clothing,Men's Wear,31314
+1237,Clothing,Men's Wear,26610
+1238,Clothing,Men's Wear,28262
+1239,Clothing,Men's Wear,34453
+1240,Clothing,Women's Wear,46264
+1241,Clothing,Women's Wear,28258
+1242,Clothing,Women's Wear,37781
+1243,Clothing,Women's Wear,43676
+1244,Clothing,Women's Wear,10128
+1245,Clothing,Women's Wear,44831
+1246,Clothing,Women's Wear,41163
+1247,Clothing,Women's Wear,27343
+1248,Clothing,Women's Wear,3136
+1249,Clothing,Women's Wear,49865
+1250,Clothing,Women's Wear,34368
+1251,Clothing,Women's Wear,38765
+1252,Clothing,Women's Wear,2888
+1253,Clothing,Women's Wear,29095
+1254,Clothing,Women's Wear,30889
+1255,Clothing,Women's Wear,37214
+1256,Clothing,Women's Wear,45527
+1257,Clothing,Women's Wear,42754
+1258,Clothing,Women's Wear,18743
+1259,Clothing,Women's Wear,28140
+1260,Clothing,Women's Wear,29907
+1261,Clothing,Women's Wear,34094
+1262,Clothing,Women's Wear,25428
+1263,Clothing,Women's Wear,21381
+1264,Clothing,Women's Wear,44587
+1265,Clothing,Women's Wear,24102
+1266,Clothing,Women's Wear,36360
+1267,Clothing,Women's Wear,38403
+1268,Clothing,Women's Wear,12176
+1269,Clothing,Women's Wear,48594
+1270,Clothing,Women's Wear,31057
+1271,Clothing,Women's Wear,12842
+1272,Clothing,Women's Wear,15823
+1273,Clothing,Women's Wear,24724
+1274,Clothing,Women's Wear,16051
+1275,Clothing,Women's Wear,23643
+1276,Clothing,Women's Wear,14759
+1277,Clothing,Women's Wear,32925
+1278,Clothing,Women's Wear,20117
+1279,Clothing,Women's Wear,11937
+1280,Clothing,Kids' Wear,33453
+1281,Clothing,Kids' Wear,13443
+1282,Clothing,Kids' Wear,45489
+1283,Clothing,Kids' Wear,34605
+1284,Clothing,Kids' Wear,10530
+1285,Clothing,Kids' Wear,48772
+1286,Clothing,Kids' Wear,17612
+1287,Clothing,Kids' Wear,6041
+1288,Clothing,Kids' Wear,48434
+1289,Clothing,Kids' Wear,7223
+1290,Clothing,Kids' Wear,15679
+1291,Clothing,Kids' Wear,12383
+1292,Clothing,Kids' Wear,11161
+1293,Clothing,Kids' Wear,41030
+1294,Clothing,Kids' Wear,10146
+1295,Clothing,Kids' Wear,17383
+1296,Clothing,Kids' Wear,31240
+1297,Clothing,Kids' Wear,7611
+1298,Clothing,Kids' Wear,24719
+1299,Clothing,Kids' Wear,34241
+1300,Clothing,Kids' Wear,22583
+1301,Clothing,Kids' Wear,48841
+1302,Clothing,Kids' Wear,48761
+1303,Clothing,Kids' Wear,15182
+1304,Clothing,Kids' Wear,28721
+1305,Clothing,Kids' Wear,23268
+1306,Clothing,Kids' Wear,36317
+1307,Clothing,Kids' Wear,20980
+1308,Clothing,Kids' Wear,49110
+1309,Clothing,Kids' Wear,42072
+1310,Clothing,Kids' Wear,21703
+1311,Clothing,Kids' Wear,10683
+1312,Clothing,Kids' Wear,5511
+1313,Clothing,Kids' Wear,45684
+1314,Clothing,Kids' Wear,4786
+1315,Clothing,Kids' Wear,22438
+1316,Clothing,Kids' Wear,6510
+1317,Clothing,Kids' Wear,49439
+1318,Clothing,Kids' Wear,825
+1319,Clothing,Kids' Wear,23036
+1320,Clothing,Footwear,1053
+1321,Clothing,Footwear,8702
+1322,Clothing,Footwear,2225
+1323,Clothing,Footwear,7464
+1324,Clothing,Footwear,44675
+1325,Clothing,Footwear,30607
+1326,Clothing,Footwear,19525
+1327,Clothing,Footwear,23073
+1328,Clothing,Footwear,11465
+1329,Clothing,Footwear,42065
+1330,Clothing,Footwear,16591
+1331,Clothing,Footwear,5136
+1332,Clothing,Footwear,37014
+1333,Clothing,Footwear,7601
+1334,Clothing,Footwear,26728
+1335,Clothing,Footwear,3890
+1336,Clothing,Footwear,7606
+1337,Clothing,Footwear,41015
+1338,Clothing,Footwear,3402
+1339,Clothing,Footwear,20066
+1340,Clothing,Footwear,27410
+1341,Clothing,Footwear,46261
+1342,Clothing,Footwear,11709
+1343,Clothing,Footwear,3085
+1344,Clothing,Footwear,49389
+1345,Clothing,Footwear,35534
+1346,Clothing,Footwear,47428
+1347,Clothing,Footwear,32174
+1348,Clothing,Footwear,16446
+1349,Clothing,Footwear,35167
+1350,Clothing,Footwear,30692
+1351,Clothing,Footwear,33002
+1352,Clothing,Footwear,42618
+1353,Clothing,Footwear,23836
+1354,Clothing,Footwear,31794
+1355,Clothing,Footwear,22902
+1356,Clothing,Footwear,10596
+1357,Clothing,Footwear,23182
+1358,Clothing,Footwear,11710
+1359,Clothing,Footwear,44846
+1360,Clothing,Accessories,46670
+1361,Clothing,Accessories,20617
+1362,Clothing,Accessories,12628
+1363,Clothing,Accessories,19633
+1364,Clothing,Accessories,29527
+1365,Clothing,Accessories,31461
+1366,Clothing,Accessories,28599
+1367,Clothing,Accessories,39768
+1368,Clothing,Accessories,6152
+1369,Clothing,Accessories,12505
+1370,Clothing,Accessories,43867
+1371,Clothing,Accessories,36716
+1372,Clothing,Accessories,38223
+1373,Clothing,Accessories,46367
+1374,Clothing,Accessories,2364
+1375,Clothing,Accessories,2113
+1376,Clothing,Accessories,9663
+1377,Clothing,Accessories,46503
+1378,Clothing,Accessories,33182
+1379,Clothing,Accessories,14314
+1380,Clothing,Accessories,19148
+1381,Clothing,Accessories,40684
+1382,Clothing,Accessories,43965
+1383,Clothing,Accessories,26627
+1384,Clothing,Accessories,37254
+1385,Clothing,Accessories,1868
+1386,Clothing,Accessories,45605
+1387,Clothing,Accessories,24362
+1388,Clothing,Accessories,34391
+1389,Clothing,Accessories,39971
+1390,Clothing,Accessories,34271
+1391,Clothing,Accessories,25086
+1392,Clothing,Accessories,38691
+1393,Clothing,Accessories,29740
+1394,Clothing,Accessories,29500
+1395,Clothing,Accessories,48559
+1396,Clothing,Accessories,33873
+1397,Clothing,Accessories,20058
+1398,Clothing,Accessories,42762
+1399,Clothing,Accessories,10795
+1400,Groceries,Vegetables,44818
+1401,Groceries,Vegetables,11881
+1402,Groceries,Vegetables,17755
+1403,Groceries,Vegetables,38944
+1404,Groceries,Vegetables,35565
+1405,Groceries,Vegetables,18631
+1406,Groceries,Vegetables,23768
+1407,Groceries,Vegetables,16665
+1408,Groceries,Vegetables,3944
+1409,Groceries,Vegetables,31604
+1410,Groceries,Vegetables,7197
+1411,Groceries,Vegetables,25598
+1412,Groceries,Vegetables,10207
+1413,Groceries,Vegetables,1323
+1414,Groceries,Vegetables,15075
+1415,Groceries,Vegetables,40091
+1416,Groceries,Vegetables,31717
+1417,Groceries,Vegetables,19285
+1418,Groceries,Vegetables,31957
+1419,Groceries,Vegetables,44500
+1420,Groceries,Vegetables,41696
+1421,Groceries,Vegetables,31527
+1422,Groceries,Vegetables,48782
+1423,Groceries,Vegetables,34420
+1424,Groceries,Vegetables,35271
+1425,Groceries,Vegetables,7600
+1426,Groceries,Vegetables,39924
+1427,Groceries,Vegetables,40537
+1428,Groceries,Vegetables,35537
+1429,Groceries,Vegetables,4967
+1430,Groceries,Vegetables,29449
+1431,Groceries,Vegetables,31367
+1432,Groceries,Vegetables,49935
+1433,Groceries,Vegetables,38607
+1434,Groceries,Vegetables,46514
+1435,Groceries,Vegetables,39178
+1436,Groceries,Vegetables,10794
+1437,Groceries,Vegetables,33745
+1438,Groceries,Vegetables,35923
+1439,Groceries,Vegetables,36098
+1440,Groceries,Fruits,36881
+1441,Groceries,Fruits,13301
+1442,Groceries,Fruits,3589
+1443,Groceries,Fruits,25401
+1444,Groceries,Fruits,45664
+1445,Groceries,Fruits,36864
+1446,Groceries,Fruits,30661
+1447,Groceries,Fruits,47197
+1448,Groceries,Fruits,41404
+1449,Groceries,Fruits,21065
+1450,Groceries,Fruits,40929
+1451,Groceries,Fruits,36487
+1452,Groceries,Fruits,855
+1453,Groceries,Fruits,11202
+1454,Groceries,Fruits,35458
+1455,Groceries,Fruits,22058
+1456,Groceries,Fruits,27967
+1457,Groceries,Fruits,28063
+1458,Groceries,Fruits,20521
+1459,Groceries,Fruits,45945
+1460,Groceries,Fruits,21400
+1461,Groceries,Fruits,27047
+1462,Groceries,Fruits,37828
+1463,Groceries,Fruits,19693
+1464,Groceries,Fruits,22820
+1465,Groceries,Fruits,12535
+1466,Groceries,Fruits,38377
+1467,Groceries,Fruits,29345
+1468,Groceries,Fruits,46406
+1469,Groceries,Fruits,18332
+1470,Groceries,Fruits,27356
+1471,Groceries,Fruits,12532
+1472,Groceries,Fruits,2624
+1473,Groceries,Fruits,38111
+1474,Groceries,Fruits,19681
+1475,Groceries,Fruits,14320
+1476,Groceries,Fruits,47171
+1477,Groceries,Fruits,21533
+1478,Groceries,Fruits,44232
+1479,Groceries,Fruits,16610
+1480,Groceries,Dairy Products,13881
+1481,Groceries,Dairy Products,4017
+1482,Groceries,Dairy Products,22637
+1483,Groceries,Dairy Products,15452
+1484,Groceries,Dairy Products,36752
+1485,Groceries,Dairy Products,26398
+1486,Groceries,Dairy Products,16114
+1487,Groceries,Dairy Products,11586
+1488,Groceries,Dairy Products,7777
+1489,Groceries,Dairy Products,3018
+1490,Groceries,Dairy Products,9043
+1491,Groceries,Dairy Products,27282
+1492,Groceries,Dairy Products,38143
+1493,Groceries,Dairy Products,14518
+1494,Groceries,Dairy Products,9181
+1495,Groceries,Dairy Products,7401
+1496,Groceries,Dairy Products,9618
+1497,Groceries,Dairy Products,48099
+1498,Groceries,Dairy Products,6814
+1499,Groceries,Dairy Products,33517
+1500,Groceries,Dairy Products,28433
+1501,Groceries,Dairy Products,43872
+1502,Groceries,Dairy Products,23939
+1503,Groceries,Dairy Products,8683
+1504,Groceries,Dairy Products,8482
+1505,Groceries,Dairy Products,26109
+1506,Groceries,Dairy Products,8031
+1507,Groceries,Dairy Products,30197
+1508,Groceries,Dairy Products,42795
+1509,Groceries,Dairy Products,31863
+1510,Groceries,Dairy Products,42356
+1511,Groceries,Dairy Products,13714
+1512,Groceries,Dairy Products,28420
+1513,Groceries,Dairy Products,27223
+1514,Groceries,Dairy Products,38722
+1515,Groceries,Dairy Products,43934
+1516,Groceries,Dairy Products,47674
+1517,Groceries,Dairy Products,10125
+1518,Groceries,Dairy Products,39383
+1519,Groceries,Dairy Products,29481
+1520,Groceries,Snacks,12581
+1521,Groceries,Snacks,28007
+1522,Groceries,Snacks,22022
+1523,Groceries,Snacks,30324
+1524,Groceries,Snacks,28156
+1525,Groceries,Snacks,47466
+1526,Groceries,Snacks,28553
+1527,Groceries,Snacks,6586
+1528,Groceries,Snacks,5909
+1529,Groceries,Snacks,47282
+1530,Groceries,Snacks,12245
+1531,Groceries,Snacks,5012
+1532,Groceries,Snacks,5634
+1533,Groceries,Snacks,35917
+1534,Groceries,Snacks,32498
+1535,Groceries,Snacks,2973
+1536,Groceries,Snacks,43994
+1537,Groceries,Snacks,17647
+1538,Groceries,Snacks,19863
+1539,Groceries,Snacks,27190
+1540,Groceries,Snacks,47536
+1541,Groceries,Snacks,8122
+1542,Groceries,Snacks,45780
+1543,Groceries,Snacks,31348
+1544,Groceries,Snacks,26010
+1545,Groceries,Snacks,27448
+1546,Groceries,Snacks,14661
+1547,Groceries,Snacks,40936
+1548,Groceries,Snacks,34446
+1549,Groceries,Snacks,27258
+1550,Groceries,Snacks,21581
+1551,Groceries,Snacks,38769
+1552,Groceries,Snacks,43077
+1553,Groceries,Snacks,37224
+1554,Groceries,Snacks,38592
+1555,Groceries,Snacks,46509
+1556,Groceries,Snacks,10626
+1557,Groceries,Snacks,35485
+1558,Groceries,Snacks,17360
+1559,Groceries,Snacks,14631
+1560,Groceries,Beverages,27518
+1561,Groceries,Beverages,46597
+1562,Groceries,Beverages,23549
+1563,Groceries,Beverages,37613
+1564,Groceries,Beverages,30569
+1565,Groceries,Beverages,28460
+1566,Groceries,Beverages,26408
+1567,Groceries,Beverages,16301
+1568,Groceries,Beverages,11284
+1569,Groceries,Beverages,25852
+1570,Groceries,Beverages,8016
+1571,Groceries,Beverages,22260
+1572,Groceries,Beverages,13233
+1573,Groceries,Beverages,12027
+1574,Groceries,Beverages,42288
+1575,Groceries,Beverages,43374
+1576,Groceries,Beverages,8474
+1577,Groceries,Beverages,12590
+1578,Groceries,Beverages,20107
+1579,Groceries,Beverages,14373
+1580,Groceries,Beverages,33224
+1581,Groceries,Beverages,14424
+1582,Groceries,Beverages,1649
+1583,Groceries,Beverages,12676
+1584,Groceries,Beverages,2958
+1585,Groceries,Beverages,23888
+1586,Groceries,Beverages,33382
+1587,Groceries,Beverages,18360
+1588,Groceries,Beverages,626
+1589,Groceries,Beverages,48141
+1590,Groceries,Beverages,33854
+1591,Groceries,Beverages,16102
+1592,Groceries,Beverages,5973
+1593,Groceries,Beverages,39897
+1594,Groceries,Beverages,5722
+1595,Groceries,Beverages,37237
+1596,Groceries,Beverages,6122
+1597,Groceries,Beverages,49267
+1598,Groceries,Beverages,16790
+1599,Groceries,Beverages,40351
+1600,Automobile,Two-Wheelers,5061
+1601,Automobile,Two-Wheelers,33630
+1602,Automobile,Two-Wheelers,23417
+1603,Automobile,Two-Wheelers,11930
+1604,Automobile,Two-Wheelers,32867
+1605,Automobile,Two-Wheelers,6446
+1606,Automobile,Two-Wheelers,26479
+1607,Automobile,Two-Wheelers,48005
+1608,Automobile,Two-Wheelers,9796
+1609,Automobile,Two-Wheelers,45965
+1610,Automobile,Two-Wheelers,35962
+1611,Automobile,Two-Wheelers,13489
+1612,Automobile,Two-Wheelers,33404
+1613,Automobile,Two-Wheelers,4901
+1614,Automobile,Two-Wheelers,3468
+1615,Automobile,Two-Wheelers,6923
+1616,Automobile,Two-Wheelers,36027
+1617,Automobile,Two-Wheelers,32507
+1618,Automobile,Two-Wheelers,24746
+1619,Automobile,Two-Wheelers,17904
+1620,Automobile,Two-Wheelers,12975
+1621,Automobile,Two-Wheelers,13880
+1622,Automobile,Two-Wheelers,4400
+1623,Automobile,Two-Wheelers,30533
+1624,Automobile,Two-Wheelers,11657
+1625,Automobile,Two-Wheelers,17722
+1626,Automobile,Two-Wheelers,27114
+1627,Automobile,Two-Wheelers,31217
+1628,Automobile,Two-Wheelers,30016
+1629,Automobile,Two-Wheelers,30242
+1630,Automobile,Two-Wheelers,30824
+1631,Automobile,Two-Wheelers,42058
+1632,Automobile,Two-Wheelers,20338
+1633,Automobile,Two-Wheelers,48943
+1634,Automobile,Two-Wheelers,4609
+1635,Automobile,Two-Wheelers,5747
+1636,Automobile,Two-Wheelers,25955
+1637,Automobile,Two-Wheelers,13576
+1638,Automobile,Two-Wheelers,42321
+1639,Automobile,Two-Wheelers,49254
+1640,Automobile,Cars,29286
+1641,Automobile,Cars,44537
+1642,Automobile,Cars,4788
+1643,Automobile,Cars,2600
+1644,Automobile,Cars,37636
+1645,Automobile,Cars,7620
+1646,Automobile,Cars,48691
+1647,Automobile,Cars,40960
+1648,Automobile,Cars,36724
+1649,Automobile,Cars,38461
+1650,Automobile,Cars,25976
+1651,Automobile,Cars,7713
+1652,Automobile,Cars,43383
+1653,Automobile,Cars,11287
+1654,Automobile,Cars,28483
+1655,Automobile,Cars,13830
+1656,Automobile,Cars,29309
+1657,Automobile,Cars,37697
+1658,Automobile,Cars,13936
+1659,Automobile,Cars,12249
+1660,Automobile,Cars,8770
+1661,Automobile,Cars,6026
+1662,Automobile,Cars,48902
+1663,Automobile,Cars,20785
+1664,Automobile,Cars,28050
+1665,Automobile,Cars,34829
+1666,Automobile,Cars,1437
+1667,Automobile,Cars,49111
+1668,Automobile,Cars,38344
+1669,Automobile,Cars,24381
+1670,Automobile,Cars,34870
+1671,Automobile,Cars,8793
+1672,Automobile,Cars,18307
+1673,Automobile,Cars,33346
+1674,Automobile,Cars,33184
+1675,Automobile,Cars,35364
+1676,Automobile,Cars,48059
+1677,Automobile,Cars,26853
+1678,Automobile,Cars,17342
+1679,Automobile,Cars,27192
+1680,Automobile,Car Accessories,33510
+1681,Automobile,Car Accessories,1693
+1682,Automobile,Car Accessories,15868
+1683,Automobile,Car Accessories,19210
+1684,Automobile,Car Accessories,49669
+1685,Automobile,Car Accessories,18169
+1686,Automobile,Car Accessories,14321
+1687,Automobile,Car Accessories,14018
+1688,Automobile,Car Accessories,41027
+1689,Automobile,Car Accessories,15943
+1690,Automobile,Car Accessories,42528
+1691,Automobile,Car Accessories,40917
+1692,Automobile,Car Accessories,7909
+1693,Automobile,Car Accessories,46937
+1694,Automobile,Car Accessories,34535
+1695,Automobile,Car Accessories,13120
+1696,Automobile,Car Accessories,12275
+1697,Automobile,Car Accessories,32518
+1698,Automobile,Car Accessories,23817
+1699,Automobile,Car Accessories,48296
+1700,Automobile,Car Accessories,3129
+1701,Automobile,Car Accessories,9978
+1702,Automobile,Car Accessories,19011
+1703,Automobile,Car Accessories,43261
+1704,Automobile,Car Accessories,1705
+1705,Automobile,Car Accessories,24856
+1706,Automobile,Car Accessories,46666
+1707,Automobile,Car Accessories,33347
+1708,Automobile,Car Accessories,49961
+1709,Automobile,Car Accessories,38108
+1710,Automobile,Car Accessories,23031
+1711,Automobile,Car Accessories,33292
+1712,Automobile,Car Accessories,6005
+1713,Automobile,Car Accessories,41673
+1714,Automobile,Car Accessories,17492
+1715,Automobile,Car Accessories,3186
+1716,Automobile,Car Accessories,9795
+1717,Automobile,Car Accessories,30572
+1718,Automobile,Car Accessories,27095
+1719,Automobile,Car Accessories,21210
+1720,Automobile,Tyres,21576
+1721,Automobile,Tyres,49649
+1722,Automobile,Tyres,26176
+1723,Automobile,Tyres,1340
+1724,Automobile,Tyres,29112
+1725,Automobile,Tyres,30461
+1726,Automobile,Tyres,43660
+1727,Automobile,Tyres,37083
+1728,Automobile,Tyres,28415
+1729,Automobile,Tyres,14713
+1730,Automobile,Tyres,29338
+1731,Automobile,Tyres,18512
+1732,Automobile,Tyres,11948
+1733,Automobile,Tyres,22721
+1734,Automobile,Tyres,12138
+1735,Automobile,Tyres,887
+1736,Automobile,Tyres,18372
+1737,Automobile,Tyres,37069
+1738,Automobile,Tyres,49097
+1739,Automobile,Tyres,6045
+1740,Automobile,Tyres,44595
+1741,Automobile,Tyres,4007
+1742,Automobile,Tyres,589
+1743,Automobile,Tyres,32539
+1744,Automobile,Tyres,31855
+1745,Automobile,Tyres,33660
+1746,Automobile,Tyres,12256
+1747,Automobile,Tyres,11873
+1748,Automobile,Tyres,42108
+1749,Automobile,Tyres,33974
+1750,Automobile,Tyres,20139
+1751,Automobile,Tyres,21523
+1752,Automobile,Tyres,34734
+1753,Automobile,Tyres,43548
+1754,Automobile,Tyres,47803
+1755,Automobile,Tyres,46322
+1756,Automobile,Tyres,49731
+1757,Automobile,Tyres,18243
+1758,Automobile,Tyres,22329
+1759,Automobile,Tyres,37811
+1760,Automobile,Batteries,32575
+1761,Automobile,Batteries,7024
+1762,Automobile,Batteries,49256
+1763,Automobile,Batteries,1795
+1764,Automobile,Batteries,21632
+1765,Automobile,Batteries,5423
+1766,Automobile,Batteries,27620
+1767,Automobile,Batteries,38045
+1768,Automobile,Batteries,44630
+1769,Automobile,Batteries,44109
+1770,Automobile,Batteries,23712
+1771,Automobile,Batteries,3583
+1772,Automobile,Batteries,19114
+1773,Automobile,Batteries,29210
+1774,Automobile,Batteries,29223
+1775,Automobile,Batteries,23882
+1776,Automobile,Batteries,20535
+1777,Automobile,Batteries,20426
+1778,Automobile,Batteries,15136
+1779,Automobile,Batteries,7968
+1780,Automobile,Batteries,23992
+1781,Automobile,Batteries,40601
+1782,Automobile,Batteries,4722
+1783,Automobile,Batteries,11628
+1784,Automobile,Batteries,46867
+1785,Automobile,Batteries,26118
+1786,Automobile,Batteries,21287
+1787,Automobile,Batteries,1417
+1788,Automobile,Batteries,27799
+1789,Automobile,Batteries,34717
+1790,Automobile,Batteries,23716
+1791,Automobile,Batteries,39400
+1792,Automobile,Batteries,8128
+1793,Automobile,Batteries,49083
+1794,Automobile,Batteries,42419
+1795,Automobile,Batteries,17544
+1796,Automobile,Batteries,49645
+1797,Automobile,Batteries,12205
+1798,Automobile,Batteries,15110
+1799,Automobile,Batteries,30315
+1800,Furniture,Sofas,32977
+1801,Furniture,Sofas,6074
+1802,Furniture,Sofas,28913
+1803,Furniture,Sofas,2103
+1804,Furniture,Sofas,41212
+1805,Furniture,Sofas,2604
+1806,Furniture,Sofas,44863
+1807,Furniture,Sofas,25870
+1808,Furniture,Sofas,48290
+1809,Furniture,Sofas,5370
+1810,Furniture,Sofas,25598
+1811,Furniture,Sofas,25774
+1812,Furniture,Sofas,38891
+1813,Furniture,Sofas,37973
+1814,Furniture,Sofas,22937
+1815,Furniture,Sofas,38970
+1816,Furniture,Sofas,7498
+1817,Furniture,Sofas,37686
+1818,Furniture,Sofas,15797
+1819,Furniture,Sofas,42642
+1820,Furniture,Sofas,13281
+1821,Furniture,Sofas,34667
+1822,Furniture,Sofas,1720
+1823,Furniture,Sofas,25362
+1824,Furniture,Sofas,27731
+1825,Furniture,Sofas,42104
+1826,Furniture,Sofas,23187
+1827,Furniture,Sofas,34247
+1828,Furniture,Sofas,29328
+1829,Furniture,Sofas,7115
+1830,Furniture,Sofas,22619
+1831,Furniture,Sofas,34894
+1832,Furniture,Sofas,9042
+1833,Furniture,Sofas,41918
+1834,Furniture,Sofas,5098
+1835,Furniture,Sofas,2515
+1836,Furniture,Sofas,27761
+1837,Furniture,Sofas,8322
+1838,Furniture,Sofas,29512
+1839,Furniture,Sofas,32093
+1840,Furniture,Beds,38361
+1841,Furniture,Beds,19616
+1842,Furniture,Beds,21565
+1843,Furniture,Beds,12479
+1844,Furniture,Beds,47045
+1845,Furniture,Beds,10371
+1846,Furniture,Beds,36452
+1847,Furniture,Beds,21621
+1848,Furniture,Beds,48505
+1849,Furniture,Beds,24995
+1850,Furniture,Beds,7487
+1851,Furniture,Beds,29833
+1852,Furniture,Beds,32886
+1853,Furniture,Beds,6923
+1854,Furniture,Beds,11498
+1855,Furniture,Beds,13215
+1856,Furniture,Beds,27650
+1857,Furniture,Beds,1230
+1858,Furniture,Beds,39905
+1859,Furniture,Beds,24110
+1860,Furniture,Beds,6957
+1861,Furniture,Beds,42303
+1862,Furniture,Beds,27024
+1863,Furniture,Beds,7895
+1864,Furniture,Beds,47551
+1865,Furniture,Beds,10059
+1866,Furniture,Beds,18556
+1867,Furniture,Beds,2470
+1868,Furniture,Beds,42952
+1869,Furniture,Beds,45211
+1870,Furniture,Beds,27483
+1871,Furniture,Beds,20054
+1872,Furniture,Beds,44686
+1873,Furniture,Beds,7298
+1874,Furniture,Beds,36086
+1875,Furniture,Beds,18669
+1876,Furniture,Beds,12843
+1877,Furniture,Beds,17633
+1878,Furniture,Beds,12486
+1879,Furniture,Beds,39677
+1880,Furniture,Tables,9382
+1881,Furniture,Tables,23705
+1882,Furniture,Tables,11567
+1883,Furniture,Tables,27496
+1884,Furniture,Tables,6299
+1885,Furniture,Tables,47126
+1886,Furniture,Tables,5510
+1887,Furniture,Tables,23165
+1888,Furniture,Tables,41201
+1889,Furniture,Tables,24253
+1890,Furniture,Tables,3621
+1891,Furniture,Tables,40663
+1892,Furniture,Tables,21617
+1893,Furniture,Tables,28761
+1894,Furniture,Tables,20880
+1895,Furniture,Tables,11889
+1896,Furniture,Tables,15350
+1897,Furniture,Tables,10068
+1898,Furniture,Tables,40233
+1899,Furniture,Tables,14367
+1900,Furniture,Tables,8676
+1901,Furniture,Tables,8528
+1902,Furniture,Tables,2590
+1903,Furniture,Tables,25151
+1904,Furniture,Tables,21367
+1905,Furniture,Tables,12590
+1906,Furniture,Tables,31220
+1907,Furniture,Tables,10960
+1908,Furniture,Tables,19831
+1909,Furniture,Tables,11330
+1910,Furniture,Tables,44171
+1911,Furniture,Tables,5385
+1912,Furniture,Tables,5786
+1913,Furniture,Tables,32784
+1914,Furniture,Tables,30190
+1915,Furniture,Tables,41528
+1916,Furniture,Tables,8770
+1917,Furniture,Tables,2064
+1918,Furniture,Tables,44740
+1919,Furniture,Tables,46155
+1920,Furniture,Chairs,13189
+1921,Furniture,Chairs,38414
+1922,Furniture,Chairs,37919
+1923,Furniture,Chairs,725
+1924,Furniture,Chairs,4448
+1925,Furniture,Chairs,43646
+1926,Furniture,Chairs,30655
+1927,Furniture,Chairs,22546
+1928,Furniture,Chairs,31188
+1929,Furniture,Chairs,18907
+1930,Furniture,Chairs,28212
+1931,Furniture,Chairs,13149
+1932,Furniture,Chairs,42299
+1933,Furniture,Chairs,25457
+1934,Furniture,Chairs,14066
+1935,Furniture,Chairs,11166
+1936,Furniture,Chairs,37368
+1937,Furniture,Chairs,18610
+1938,Furniture,Chairs,32588
+1939,Furniture,Chairs,9982
+1940,Furniture,Chairs,45392
+1941,Furniture,Chairs,41670
+1942,Furniture,Chairs,24447
+1943,Furniture,Chairs,35652
+1944,Furniture,Chairs,38176
+1945,Furniture,Chairs,34368
+1946,Furniture,Chairs,13860
+1947,Furniture,Chairs,875
+1948,Furniture,Chairs,25324
+1949,Furniture,Chairs,5852
+1950,Furniture,Chairs,47955
+1951,Furniture,Chairs,40345
+1952,Furniture,Chairs,19810
+1953,Furniture,Chairs,49515
+1954,Furniture,Chairs,6284
+1955,Furniture,Chairs,2126
+1956,Furniture,Chairs,41902
+1957,Furniture,Chairs,43228
+1958,Furniture,Chairs,10835
+1959,Furniture,Chairs,9223
+1960,Furniture,Cupboards,34439
+1961,Furniture,Cupboards,41361
+1962,Furniture,Cupboards,38048
+1963,Furniture,Cupboards,23878
+1964,Furniture,Cupboards,14688
+1965,Furniture,Cupboards,36304
+1966,Furniture,Cupboards,47150
+1967,Furniture,Cupboards,16262
+1968,Furniture,Cupboards,10833
+1969,Furniture,Cupboards,9959
+1970,Furniture,Cupboards,42331
+1971,Furniture,Cupboards,40560
+1972,Furniture,Cupboards,2059
+1973,Furniture,Cupboards,37755
+1974,Furniture,Cupboards,11100
+1975,Furniture,Cupboards,47572
+1976,Furniture,Cupboards,47842
+1977,Furniture,Cupboards,34532
+1978,Furniture,Cupboards,42583
+1979,Furniture,Cupboards,38614
+1980,Furniture,Cupboards,32515
+1981,Furniture,Cupboards,34989
+1982,Furniture,Cupboards,40953
+1983,Furniture,Cupboards,10376
+1984,Furniture,Cupboards,15805
+1985,Furniture,Cupboards,47335
+1986,Furniture,Cupboards,40631
+1987,Furniture,Cupboards,23851
+1988,Furniture,Cupboards,2006
+1989,Furniture,Cupboards,30895
+1990,Furniture,Cupboards,10541
+1991,Furniture,Cupboards,22166
+1992,Furniture,Cupboards,28885
+1993,Furniture,Cupboards,40964
+1994,Furniture,Cupboards,20080
+1995,Furniture,Cupboards,43532
+1996,Furniture,Cupboards,35923
+1997,Furniture,Cupboards,42764
+1998,Furniture,Cupboards,15104
+1999,Furniture,Cupboards,13099
